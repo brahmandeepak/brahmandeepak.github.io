@@ -9682,3 +9682,45 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .right-image-post {
+      margin-top: 60px;
+      padding-top: 60px;
+      border-top: 2px solid rgba(250, 250, 250, 0.1);
+  }
+  
+  .left-image img,
+  .right-image img {
+    margin-top: 30px;
+      border-radius: 5px;
+      width: 100%;
+  }
+  
+  .right-image-post h4,
+  .left-image-post h4 {
+      margin-top: 10px;
+  }
+  
+  .right-image-post p,
+  .left-image-post p {
+      margin-top: 10px;
+  }
+  
+  .right-image-post .white-button,
+  .left-image-post .white-button {
+      margin-top: 10px;
+  }
