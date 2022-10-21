@@ -9707,7 +9707,7 @@ textarea.form-control {
   .right-image img {
     margin-top: 30px;
       border-radius: 5px;
-      width: 100%;
+      height: 260px;
   }
   
   .right-image-post h4,
