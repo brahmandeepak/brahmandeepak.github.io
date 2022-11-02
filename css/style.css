@@ -9728,19 +9728,25 @@ textarea.form-control {
       margin-top: 10px;
   }
   .white-button{
-    padding: 10px 10px;
-    background-color: black;
-    border: 1px solid red;
+    padding: 8px 10px;
     width: 25%;
-    font-size: 15px;
+    font-size: 12px;
+    border-radius: 29px;
+    color: black;
+    background-color: #FFBD39;
     
   }
   .white-buttonn{
-    padding: 10px 10px;
-    background-color: black;
-    border: 1px solid red;
-    width: 43%;
-    
+    padding: 8px 10px;
+    font-size: 12px;
+    border-radius: 29px;
+    color: black;
+    background-color: #FFBD39;
+    width: 35%;
+    padding-left: 15px;
+  }
+  .white-button a, .white-buttonn a{
+    color: black;
   }
 
   @media only screen and (min-width: 400px) and (max-width: 626px) {
