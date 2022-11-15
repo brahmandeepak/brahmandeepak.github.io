@@ -3508,6 +3508,7 @@ input[type="button"].btn-block {
     text-decoration: none; }
 
 .navbar-toggler-icon {
+  position: sticky;
   display: inline-block;
   width: 1.5em;
   height: 1.5em;
@@ -8288,6 +8289,7 @@ h1, h2, h3, h4, h5,
     text-transform: uppercase;
     font-size: 16px;
     letter-spacing: .1em; }
+    
     .ftco-navbar-light .navbar-toggler:hover, .ftco-navbar-light .navbar-toggler:focus {
       text-decoration: none;
       color: #ffbd39;
@@ -8338,7 +8340,7 @@ h1, h2, h3, h4, h5,
         margin-left: 0 !important; } }
     .ftco-navbar-light.scrolled .navbar-toggler {
       border: none;
-      color: rgba(0, 0, 0, 0.5) !important;
+      color: white !important;
       border-color: rgba(0, 0, 0, 0.5) !important;
       cursor: pointer;
       text-transform: uppercase;
