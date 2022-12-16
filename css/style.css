@@ -9785,3 +9785,11 @@ textarea.form-control {
   }
   
   }
+
+  @media screen and (max-width: 705px) {
+
+    #mighty-2{
+    background-image: none;
+    }
+    
+    }
